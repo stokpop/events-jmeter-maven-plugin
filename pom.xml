@@ -14,7 +14,7 @@
 
     <groupId>nl.stokpop</groupId>
     <artifactId>events-jmeter-maven-plugin</artifactId>
-    <version>3.1.2-events-1</version>
+    <version>3.1.2-events-1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Events JMeter Maven Plugin</name>
@@ -64,34 +64,11 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:jmeter-maven-plugin/jmeter-maven-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jmeter-maven-plugin/jmeter-maven-plugin.git</developerConnection>
-        <url>https://github.com/jmeter-maven-plugin/jmeter-maven-plugin</url>
+        <connection>scm:git:git@github.com:stokpop/events-jmeter-maven-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:stokpop/events-jmeter-maven-plugin.git</developerConnection>
+        <url>https://github.com/stokpop/events-jmeter-maven-plugin</url>
         <tag>HEAD</tag>
     </scm>
-
-    <issueManagement>
-        <system>GitHub</system>
-        <url>https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues</url>
-    </issueManagement>
-
-    <ciManagement>
-        <system>Travis CI</system>
-        <url>https://travis-ci.org/jmeter-maven-plugin/jmeter-maven-plugin</url>
-    </ciManagement>
-
-    <mailingLists>
-        <mailingList>
-            <name>JMeter Maven Plugin Users</name>
-            <post>maven-jmeter-plugin-users@googlegroups.com</post>
-            <archive>https://groups.google.com/forum/?fromgroups#!forum/maven-jmeter-plugin-users</archive>
-        </mailingList>
-        <mailingList>
-            <name>JMeter Maven Plugin Devs</name>
-            <post>maven-jmeter-plugin-devs@googlegroups.com</post>
-            <archive>https://groups.google.com/forum/?fromgroups#!forum/maven-jmeter-plugin-devs</archive>
-        </mailingList>
-    </mailingLists>
 
     <developers>
         <developer>
