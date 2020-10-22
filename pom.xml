@@ -14,7 +14,7 @@
 
     <groupId>nl.stokpop</groupId>
     <artifactId>events-jmeter-maven-plugin</artifactId>
-    <version>3.1.2-events-2-SNAPSHOT</version>
+    <version>3.1.2-events-2</version>
     <packaging>maven-plugin</packaging>
 
     <name>Events JMeter Maven Plugin</name>
